@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Third webpage</title>
+</head>
+<body>
+<h1>Welcome to My Web Page</h1>
+<p>This is the first paragraph. It shows how you can use the &lt;p&gt; tag to add text to your web page.</p>
+<p>This is the second paragraph. Each &lt;p&gt; tag creates a new block of text with some space above and below it.</p>
+<p>You can write as many paragraphs as you want to organize your content in a clear and readable way.</p>
+</body>
+</html>
